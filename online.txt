@@ -1,1 +1,3 @@
 Ez az állomány online készült
+
+Új sor hogy offline szerkeszett is legyen
